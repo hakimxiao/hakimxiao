@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 Selamat Datang 😊</h1>
-<h2 align="center">SAYA PUNYA PACAR NAMANYA CHAROLINA AGI+USTIN 🥰</h2>
+<h2 align="center">SAYA PUNYA PACAR NAMANYA CHAROLINA AGUSTIN 🥰</h2>
 ###
 
 <div align="center">
