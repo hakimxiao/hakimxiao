@@ -45,7 +45,7 @@
 
 #### 🗄️ Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,firebase,vercel,git,figma,canva,blender,appwrite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,firebase,vercel,git,figma,blender,appwrite" />
 
 </div>
 
