@@ -12,7 +12,7 @@
 ### 🎥 Hero Banner
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="240" />
+  <img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtjaWRidzZqcXRuOW81dHp0dnowcHEwdzltbjR1dHhjdTYxdmRxMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zOvBKUUEERdNm/giphy.gif" height="240" />
 </div>
 
 ---
@@ -54,7 +54,7 @@
 <img src="https://skillicons.dev/icons?i=js,ts,dart,python,php,html,css,tailwind,sass,flutter,laravel,nextjs,threejs,vite" />
 
 #### 💾 Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,firebase,vercel,git,figma,canva,blender,appwrite" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,firebase,vercel,git,figma,blender,appwrite" />
 
 </div>
 
