@@ -12,7 +12,7 @@
 ### 🎥 Hero Banner
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGhuaTY4ZWJmZjI1MzR0YjNjNWhiMTdvMWVuMHVuZHVnM2RyMjk1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LD2ZJ0pdNmCxFikNQ5/giphy.gif" height="350" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM3MzJ4Y2k1MHZza3N0ZjB0YXp2NW42ODM1dXo5Mnhzazlmb2pyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" height="350" width="600" />
 </div>
 
 ---
