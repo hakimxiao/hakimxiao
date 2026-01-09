@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Metrics (100% FREE)
+## 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://metrics.lecoq.io/hakimxiao?template=classic&config.timezone=Asia/Jakarta" />
