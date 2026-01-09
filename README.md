@@ -1,119 +1,96 @@
-<!-- 🌟 SUPER README BY ABU SOLIHIN ALHAKIM 🌟 -->
+<!-- 🔥 CLEAN & FREE GITHUB PROFILE README 🔥 -->
 
 <h1 align="center">Hi 👋, I'm Abu Solihin Alhakim</h1>
-<h3 align="center">🚀 Passionate Programmer | 🔭 Tech Explorer | 🤝 Let's Build Together!</h3>
+<h3 align="center">🚀 Passionate Programmer | 💻 Tech Explorer | 🌱 Lifelong Learner</h3>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Programmer+%F0%9F%92%BB;Dreamer+%F0%9F%8C%9F;Let's+Code+Something+Awesome!" />
-</div>
-
----
-
-### 🎥 Hero Banner
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM3MzJ4Y2k1MHZza3N0ZjB0YXp2NW42ODM1dXo5Mnhzazlmb2pyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" height="350" width="400" />
-</div>
+<p align="center">
+  <em>Think • Learn • Build • Repeat</em>
+</p>
 
 ---
 
-### 🌟 About Me
+## 🌟 About Me
 
-<div align="center">
-
-💡 Selalu Mencoba Teknologi Baru  
-👯 Siap Kolaborasi & Bertumbuh  
-🌱 Belajar Tanpa Henti  
-📬 Siap Bantu & Dibantu  
-💬 Think. Code. Repeat.  
-☕ Kopi + Keyboard = Magic 💻✨
-
-</div>
+- 💡 Tertarik pada teknologi modern & pemecahan masalah  
+- 👨‍💻 calon Software Engineer All Role WKWKWk
+- 🌱 Sedang fokus memperdalam **Web & Mobile Development**  
+- 🤝 Terbuka untuk kolaborasi dan diskusi teknologi  
+- ☕ Coding works better with coffee  
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-<div align="center">
+### 🧠 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,html,css" />
+</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Haakiim)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fhkimm_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Abu%20Solihin%20Alhakim)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/likeprogramm)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hakimxiao4@gmail.com)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,vite,tailwind,sass" />
+</p>
 
-</div>
+### 💾 Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,firebase" />
+</p>
 
----
-
-### 🛠️ My Tech Stack
-
-<div align="center">
-
-#### 🧠 Languages & Frameworks  
-<img src="https://skillicons.dev/icons?i=js,ts,dart,python,php,html,css,tailwind,sass,flutter,laravel,nextjs,threejs,vite" />
-
-#### 💾 Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,firebase,vercel,git,figma,blender,appwrite" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,linux" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Current Focus
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hakimxiao&show_icons=true&theme=radical&hide_border=false)
-![Streak](https://streak-stats.demolab.com?user=hakimxiao&theme=radical&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakimxiao&layout=compact&theme=radical&hide_border=false)
-
-</div>
+- 🔭 Building real-world projects  
+- 📱 Exploring **React Native & Flutter**  
+- 🌐 Backend integration & REST API  
+- 🧩 Clean Code & Software Architecture  
 
 ---
 
-### 🏆 GitHub Trophies
+## 🌐 Connect With Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hakimxiao&theme=algolia&no-frame=false&margin-w=10" />
-</div>
-
----
-
-### 🔝 Top Contributions
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hakimxiao&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
-
----
-
-### 🔥 Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hakimxiao/hakimxiao/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hakimxiao/hakimxiao/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/hakimxiao/hakimxiao/output/pacman-contribution-graph.svg">
-</picture>
-</div>
+<p align="center">
+  <a href="https://facebook.com/Haakiim">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/fhkimm_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/Abu%20Solihin%20Alhakim">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/likeprogramm">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:hakimxiao4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### ✍️ AI Quote of the Day
+## 📂 Highlighted Projects
+> ⭐ (Pin repository terbaik kamu di GitHub Profile)
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+- 🚀 Web Application  
+- 📱 Mobile App  
+- 🧠 Algorithm & Logic Practice  
+- 🛠️ Experimental Projects  
+
+_(Gunakan fitur **Pinned Repositories** GitHub — 100% gratis & resmi)_  
 
 ---
 
-### 💻 Simulasi Coding Terminal
+## 🧪 Developer Mindset
 
 ```bash
-> installing knowledge...
-█████████████████████████████████████████████ 100%
-> compiling experience...
-█████████████████████████████████████████████ 100%
-> launching creativity...
-🚀🚀🚀 Let's build something amazing!
+$ learn --daily
+✔ logic
+✔ consistency
+✔ curiosity
+
+$ build --future
+🚀 progress unlocked
