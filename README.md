@@ -1,96 +1,104 @@
-<!-- 🔥 CLEAN & FREE GITHUB PROFILE README 🔥 -->
+<!-- 🔥 FREE & LIVING GITHUB README 🔥 -->
 
 <h1 align="center">Hi 👋, I'm Abu Solihin Alhakim</h1>
-<h3 align="center">🚀 Passionate Programmer | 💻 Tech Explorer | 🌱 Lifelong Learner</h3>
+<h3 align="center">🚀 Programmer | 💻 Tech Explorer | 🌱 Continuous Learner</h3>
 
 <p align="center">
-  <em>Think • Learn • Build • Repeat</em>
+  <img src="https://komarev.com/ghpvc/?username=hakimxiao&label=Profile%20Views&color=orange&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/hakimxiao?label=Followers&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/hakimxiao?label=Stars&style=flat-square" />
+</p>
+
+---
+
+## 🎥 Coding Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 💡 Tertarik pada teknologi modern & pemecahan masalah  
-- 👨‍💻 calon Software Engineer All Role WKWKWk
-- 🌱 Sedang fokus memperdalam **Web & Mobile Development**  
-- 🤝 Terbuka untuk kolaborasi dan diskusi teknologi  
-- ☕ Coding works better with coffee  
+- 💡 Suka eksplorasi teknologi baru  
+- 👨‍💻 Mahasiswa Teknik Komputer  
+- 🌐 Web & Mobile Developer Enthusiast  
+- 🤝 Open for collaboration  
+- ☕ Coffee + Code = Productivity  
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🧠 Languages & Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,html,css" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,laravel,vite,tailwind,sass" />
 </p>
 
 ### 💾 Databases & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma,firebase" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,blender,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux,blender" />
 </p>
 
 ---
 
-## 📌 Current Focus
+## 📊 GitHub Metrics (100% FREE)
 
-- 🔭 Building real-world projects  
-- 📱 Exploring **React Native & Flutter**  
-- 🌐 Backend integration & REST API  
-- 🧩 Clean Code & Software Architecture  
+<p align="center">
+  <img src="https://metrics.lecoq.io/hakimxiao?template=classic&config.timezone=Asia/Jakarta" />
+</p>
+
+---
+
+## 🔥 Activity & Contribution
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/hakimxiao?template=classic&base.activity=1&base.community=1&config.timezone=Asia/Jakarta" />
+</p>
+
+---
+
+## 📌 Highlighted Projects
+
+> ⭐ Gunakan **Pinned Repositories** GitHub  
+> Ini **fitur resmi GitHub** dan terlihat profesional
+
+- 🚀 Web Apps  
+- 📱 Mobile Apps  
+- 🧠 Logic & Algorithm  
+- 🛠️ Experimental Projects  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://facebook.com/Haakiim">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/fhkimm_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/Abu%20Solihin%20Alhakim">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/likeprogramm">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:hakimxiao4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://facebook.com/Haakiim"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+  <a href="https://instagram.com/fhkimm_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://linkedin.com/in/Abu%20Solihin%20Alhakim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://x.com/likeprogramm"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter"/></a>
+  <a href="mailto:hakimxiao4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
-## 📂 Highlighted Projects
-> ⭐ (Pin repository terbaik kamu di GitHub Profile)
-
-- 🚀 Web Application  
-- 📱 Mobile App  
-- 🧠 Algorithm & Logic Practice  
-- 🛠️ Experimental Projects  
-
-_(Gunakan fitur **Pinned Repositories** GitHub — 100% gratis & resmi)_  
-
----
-
-## 🧪 Developer Mindset
+## 🧪 Terminal Simulation
 
 ```bash
-$ learn --daily
-✔ logic
-✔ consistency
-✔ curiosity
+> learning skills...
+████████████████████████ 100%
 
-$ build --future
-🚀 progress unlocked
+> building projects...
+████████████████████████ 100%
+
+> pushing to GitHub...
+🚀 SUCCESS
