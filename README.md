@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Metrics 
 
 <p align="center">
   <img src="https://metrics.lecoq.io/hakimxiao?template=classic&config.timezone=Asia/Jakarta" />
@@ -59,12 +59,19 @@
 
 ---
 
-## 🔥 Activity & Contribution
+## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/hakimxiao?template=classic&base.activity=1&base.community=1&config.timezone=Asia/Jakarta" />
+  <img src="https://metrics.lecoq.io/hakimxiao?isocalendar=1&config.timezone=Asia/Jakarta" />
 </p>
 
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/hakimxiao?languages=1&config.timezone=Asia/Jakarta" />
+</p>
 ---
 
 ## 📌 Highlighted Projects
