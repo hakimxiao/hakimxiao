@@ -12,6 +12,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hakimxiao&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 GitHero
+[![Githero Stats](https://githero.dev/api/widget/hakimxiao?style=card&theme=dark)](https://githero.dev/u/hakimxiao?ref=hakimxiao&widget=card)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
